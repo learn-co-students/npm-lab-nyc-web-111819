@@ -1,0 +1,23 @@
+{
+  "name": "npm-lab-nyc-web-111819",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learn-co-students/npm-lab-nyc-web-111819.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/learn-co-students/npm-lab-nyc-web-111819/issues"
+  },
+  "homepage": "https://github.com/learn-co-students/npm-lab-nyc-web-111819#readme",
+  "dependencies": {
+    "mocha": "^7.0.0",
+    "moment": "^2.24.0"
+  }
+}
